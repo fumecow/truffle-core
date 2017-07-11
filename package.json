@@ -27,7 +27,7 @@
     "truffle-box": "^1.0.0",
     "truffle-compile": "~2.0.3",
     "truffle-config": "~1.0.0",
-    "truffle-contract": "~2.0.0",
+    "truffle-contract": "git://github.com/fumecow/truffle-contract.git#1e04b863ea23b268c8b0a9778279c06c944a47f9",
     "truffle-contract-sources": "~0.0.1",
     "truffle-deployer": "~1.0.0",
     "truffle-error": "~0.0.2",
