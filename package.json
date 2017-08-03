@@ -39,7 +39,7 @@
     "truffle-require": "~1.0.2",
     "truffle-resolver": "~3.0.0",
     "truffle-solidity-utils": "~1.0.0",
-    "web3": "^0.18.0",
+    "web3": "git@github.com:fumecow/web3.js.git#94bf1b528a83e58fc01c99e86fdd5900680f8391",
     "yargs": "^6.6.0"
   },
   "bin": {
